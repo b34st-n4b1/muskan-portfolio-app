@@ -122,22 +122,28 @@ function Navbar({ toggle }) {
           </NavMenu>
           <SocialButtons>
             <SocialIcon scrollNav={scrollNav}>
-              <a href="#">
+              <a
+                href="https://www.facebook.com/itsdsmuskan319/"
+                target="_blank"
+              >
                 <FaFacebook />
               </a>
             </SocialIcon>
             <SocialIcon scrollNav={scrollNav}>
-              <a href="#">
+              <a href="https://www.instagram.com/itsdsmuskan/" target="_blank">
                 <FaInstagram />
               </a>
             </SocialIcon>
             <SocialIcon scrollNav={scrollNav}>
-              <a href="#">
+              <a href="https://twitter.com/itsdsmuskan" target="_blank">
                 <FaTwitter />
               </a>
             </SocialIcon>
             <SocialIcon scrollNav={scrollNav}>
-              <a href="#">
+              <a
+                href="https://in.pinterest.com/muskanpandey319/"
+                target="_blank"
+              >
                 <FaPinterest />
               </a>
             </SocialIcon>

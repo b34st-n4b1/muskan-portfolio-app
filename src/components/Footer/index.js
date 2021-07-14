@@ -26,7 +26,7 @@ const Footer = () => {
           </ul>
         </div>
         <div id="go-top" onClick={toggleHome}>
-          <Link to="home" className="smoothscroll" title="Back to Top">
+          <Link to="/" className="smoothscroll" title="Back to Top">
             {/* <i className="icon-up-open"></i> */}
             <FaChevronUp className="icon-up-open" />
           </Link>

@@ -87,22 +87,22 @@ function Sidebar({ isOpen, toggle }) {
         </SidebarMenu>
         <SidebarSocialIcon>
           <SidebarIcon>
-            <a href="#">
+            <a href="https://www.facebook.com/itsdsmuskan319/" target="_blank">
               <FaFacebook />
             </a>
           </SidebarIcon>
           <SidebarIcon>
-            <a href="#">
+            <a href="https://www.instagram.com/itsdsmuskan/" target="_blank">
               <FaInstagram />
             </a>
           </SidebarIcon>
           <SidebarIcon>
-            <a href="#">
+            <a href="https://twitter.com/itsdsmuskan" target="_blank">
               <FaTwitter />
             </a>
           </SidebarIcon>
           <SidebarIcon>
-            <a href="#">
+            <a href="https://in.pinterest.com/muskanpandey319/" target="_blank">
               <FaPinterest />
             </a>
           </SidebarIcon>
